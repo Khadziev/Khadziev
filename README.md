@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/haz_222)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/han222____.s/)
 [![mail.ru](https://img.shields.io/badge/hadziev06@list.ru-red?style=social&logo=mail.ru)](#)
-[![mail.ru](https://img.shields.io/badge/live:?style=social&logo=skype)](#)
+<!-- [![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#) -->
 ___
 ### Мои проекты:
 #### Командный проект base-speakers-app
@@ -39,7 +39,7 @@ ___ -->
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-764ABC?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
-marsell, [19.08.21 14:45]
+
 ![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge)
 ![MYSQL](https://img.shields.io/badge/-MySQL-brown?style=for-the-badge)
