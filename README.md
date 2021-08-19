@@ -7,7 +7,7 @@
 <!-- [![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#) -->
 ___
 ### Мои проекты:
-#### Командный проект base-speakers-app
+#### Командный проект ChildDiar
 
  [код](https://github.com/Khadziev/ChildDiar)
  [демо](https://deploy-mern-child.herokuapp.com/)                   
