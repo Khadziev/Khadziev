@@ -51,12 +51,14 @@ ___ -->
 ![morgan](https://img.shields.io/badge/-morgan-green?style=for-the-badge)
 ![cors](https://img.shields.io/badge/-cors-pink?style=for-the-badge)
 ![Material-UI](https://img.shields.io/badge/-Materilal--UI-blue?style=for-the-badge)
-![day.js](https://img.shields.io/badge/-day.js-orange?style=for-the-badge)
-![concurrently](https://img.shields.io/badge/-concurrently-black?style=for-the-badge)
+
+
+<!-- ![concurrently](https://img.shields.io/badge/-concurrently-black?style=for-the-badge)
 ![fuse-js](https://img.shields.io/badge/-fuse.js-yellow?style=for-the-badge)
 ![styled-components](https://img.shields.io/badge/-styled--components-green?style=for-the-badge)
+![day.js](https://img.shields.io/badge/-day.js-orange?style=for-the-badge) -->
 
-#### имею опыт адаптивной верстки
+<!-- #### имею опыт адаптивной верстки
 
 
 ### Основные методологии, которые я использую:
@@ -64,7 +66,7 @@ ___ -->
 ![concurrently](https://img.shields.io/badge/-MVC-black?style=for-the-badge)
 ![функциональное программирование](https://img.shields.io/badge/-функциональное--программирование-red?style=for-the-badge)
 ![БЭМ](https://img.shields.io/badge/-Бэм-black?style=for-the-badge)
-
+ -->
 <!-- ### Чтобы я хотел изучить в ближайшее время:
 ![typescript](https://img.shields.io/badge/-typescript-green?style=for-the-badge)
 ![MobX](https://img.shields.io/badge/-MobX-yellow?style=for-the-badge)
