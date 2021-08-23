@@ -9,7 +9,7 @@ ___
 ### Мои проекты:
 #### Командный проект ChildDiar 
 
-
+#### Дневник ребенка
 #### [код](https://github.com/Khadziev/ChildDiar)
 #### [демо](https://deploy-mern-child.herokuapp.com/)                   
                       
