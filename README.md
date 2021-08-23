@@ -7,10 +7,11 @@
 <!-- [![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#) -->
 ___
 ### Мои проекты:
-#### Командный проект ChildDiar
+#### Командный проект ChildDiar 
 
- [код](https://github.com/Khadziev/ChildDiar)
- [демо](https://deploy-mern-child.herokuapp.com/)                   
+
+#### [код](https://github.com/Khadziev/ChildDiar)
+#### [демо](https://deploy-mern-child.herokuapp.com/)                   
                       
 <!-- #### Индивидуальный проект students-app
  [код](https://github.com/saytkhanov/students-bootcamp-app)
