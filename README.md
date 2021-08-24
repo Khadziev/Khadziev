@@ -1,7 +1,7 @@
 
 
 ### Связаться со мной:
-[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/haz_222)
+[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/haz_882)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/han222______)
 [![mail.ru](https://img.shields.io/badge/hadziev06@list.ru-red?style=social&logo=mail.ru)](#)
 <!-- [![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#) -->
