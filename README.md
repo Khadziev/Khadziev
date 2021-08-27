@@ -11,8 +11,8 @@ ___
 
 #### Полезен для родителей, кому нужно вести дневник ребенка. Включает в себя: Регистрацию, авторизацию, оформление с помощью Material-ui, личный кабинет, вывод и добавление фотографий, добавление событий, выгрузка неограниченного количества изображений.
  
-#### [код](https://github.com/Khadziev/ChildDiar)
-#### [демо](https://deploy-mern-child.herokuapp.com/)                   
+#### [Код](https://github.com/Khadziev/ChildDiar)
+#### [Демо](https://deploy-mern-child.herokuapp.com/)                   
                       
 <!-- #### Индивидуальный проект students-app
  [код](https://github.com/saytkhanov/students-bootcamp-app)
