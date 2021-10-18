@@ -27,7 +27,7 @@ ___ -->
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
 <img alt="bcrypt" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 <img alt="Redux-Logger" src="https://img.shields.io/badge/-React_Hooks-430098?style=for-the-badge&logo=Redux&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
