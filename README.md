@@ -31,7 +31,6 @@ ___ -->
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-430098?style=for-the-badge&logo=redux&logoColor=white" />
 <img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Thunk-white?style=for-the-badge&logo=Redux&logoColor=430098" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange" />
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-230f39?style=flat-square&logo=Bootstrap&logoColor=8c57d9) 
 <img alt="bcrypt" src="https://img.shields.io/badge/redux devtools-430098?style=for-the-badge&logo=redux">
 <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
 <img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-✔️-green?style=for-the-badge&logo">
