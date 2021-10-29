@@ -7,13 +7,10 @@
 <!-- [![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#) -->
 ___
 ### Мои проекты:
-#### -Дневник ребенка
+#### -Дневник ребенка [КОД](https://github.com/Khadziev/ChildDiar) / [ДЕМО](https://deploy-mern-child.herokuapp.com/) 
  
-#### [Код](https://github.com/Khadziev/ChildDiar)
-#### [Демо](https://deploy-mern-child.herokuapp.com/)  
 
-#### -Медицинские карты
-#### [Код](https://github.com/Khadziev/hospital)
+#### -Медицинские карты [КОД](https://github.com/Khadziev/hospital)
                       
 <!-- #### Индивидуальный проект students-app
  [код](https://github.com/saytkhanov/students-bootcamp-app)
