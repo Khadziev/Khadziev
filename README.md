@@ -10,7 +10,7 @@ ___
 #### ДНЕВНИК РЕБЕНКА:  / [КОД](https://github.com/Khadziev/ChildDiar) / [ДЕМО](https://deploy-mern-child.herokuapp.com/) 
  
 
-#### -МЕДИЦИНСКИЕ КАРТЫ: / [КОД](https://github.com/Khadziev/hospital)
+#### МЕДИЦИНСКИЕ КАРТЫ: / [КОД](https://github.com/Khadziev/hospital)
                       
 <!-- #### Индивидуальный проект students-app
  [код](https://github.com/saytkhanov/students-bootcamp-app)
