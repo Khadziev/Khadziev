@@ -7,7 +7,7 @@
 <!-- [![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#) -->
 ___
 ### Мои проекты:
-#### ДНЕВНИК РЕБЕНКА:  / [КОД](https://github.com/Khadziev/ChildDiar) / [ДЕМО](https://deploy-mern-child.herokuapp.com/) 
+#### ДНЕВНИК РЕБЕНКА:  / [КОД](https://github.com/Khadziev/ChildDiar) / [ДЕМО](https://child-day.herokuapp.com/) 
  
 
 #### МЕДИЦИНСКИЕ КАРТЫ: / [КОД](https://github.com/Khadziev/hospital)
