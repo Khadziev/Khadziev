@@ -39,6 +39,7 @@ ___ -->
 <img alt="bcrypt" src="https://img.shields.io/badge/mongoose-✔️-green?style=for-the-badge&logo=mongoose">
 <img alt="bcrypt" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-764ABC?style=for-the-badge&logo=heroku&logoColor=white" />
+ <img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
 </div>
 
 
