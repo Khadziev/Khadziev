@@ -9,9 +9,9 @@ ___
 ### Мои проекты:
 #### ДНЕВНИК РЕБЕНКА:  / [КОД](https://github.com/Khadziev/ChildDiary) / [ДЕМО](https://deploy-mern-child.herokuapp.com/) 
  
-#### Сайт для волонтеров Dobro: / [КОД](https://github.com/Khadziev/Dobro) / [ДЕМО](https://mern-dobro.herokuapp.com)/  
+#### САЙТ ДЛЯ ВОЛОНТЕРОВ Dobro: / [КОД](https://github.com/Khadziev/Dobro) / [ДЕМО](https://mern-dobro.herokuapp.com)/  
 
-#### Воспоминания: / [КОД](https://github.com/Khadziev/memories)  / [ДЕМО](https://mernd-memories.herokuapp.com/)/  
+#### ВОСПОМИНАНИЯ: / [КОД](https://github.com/Khadziev/memories)  / [ДЕМО](https://mernd-memories.herokuapp.com/)/  
 
 #### МЕДИЦИНСКИЕ КАРТЫ: / [КОД](https://github.com/Khadziev/hospital) 
                       
