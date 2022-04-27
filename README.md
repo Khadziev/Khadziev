@@ -11,8 +11,9 @@ ___
  
 #### Сайт для волонтеров Dobro: / [КОД](https://github.com/Khadziev/Dobro) / [ДЕМО](https://mern-dobro.herokuapp.com)/  
 
+#### Воспоминания: / [КОД](https://github.com/Khadziev/memories)  / [ДЕМО](https://mernd-memories.herokuapp.com/)/  
 
-#### МЕДИЦИНСКИЕ КАРТЫ: / [КОД](https://github.com/Khadziev/hospital)
+#### МЕДИЦИНСКИЕ КАРТЫ: / [КОД](https://github.com/Khadziev/hospital) 
                       
 <!-- #### Индивидуальный проект students-app
  [код](https://github.com/saytkhanov/students-bootcamp-app)
