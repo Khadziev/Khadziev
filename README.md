@@ -16,6 +16,16 @@
 </p>
 
 <hr>
+
+<p align="center">
+<h2  Мои проекты </h2>
+  <h3 САЙТ ДЛЯ ВОЛОНТЕРОВ Dobro: / [КОД](https://github.com/Khadziev/Dobro) / [ДЕМО](https://mern-dobro.herokuapp.com)/ </h3>
+  <h3 ДНЕВНИК РЕБЕНКА:  / [КОД](https://github.com/Khadziev/chilld) / [ДЕМО](https://deploy-mern-child.herokuapp.com/) </h3>
+  <h3 ВОСПОМИНАНИЯ: / [КОД](https://github.com/Khadziev/memories)  / [ДЕМО](https://mernd-memories.herokuapp.com/)/  </h3>
+  
+ </p>
+
+
 <h3 align="center">Основные технологии, которые я использую</h3>
 
 
