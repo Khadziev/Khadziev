@@ -1,40 +1,14 @@
-<h2 align="center">Koma Corporation</h2>
+<h2 align="center">Islam Khadziev</h2>
 
-<p align="center">
-  <img height="300" width="300" src="./profile.png"/>
-</p>
-
-
-<p align="center">
- <a target="_blank" href=https://github.com/Ivan-Corporation>
-  <img src=https://img.shields.io/github/followers/Ivan-Corporation?label=follow%20me&style=social />
-</a>
 <br/>
 
-
-  <a href=https://codesandbox.io/u/Ivan-Corporation>
-  <img height="35" width="36" src="https://www.shareicon.net/data/2016/11/03/849433_codepen_512x512.png" />
 ⇱
 </a> 
-<a href=mailto:hammer.99.ivan@gmail.com>
+<a href=Hadziev0615@gmail.com>
   <img height="29" width="35" src="./gmail1.png" />
 ⇱
 </a>
-  <a href=https://www.linkedin.com/in/ivan-komar-313960237/>
-  <img height="32" width="33" src="./linkedin.png" />
-⇱
-</a>
-<br/>
-  <a href=https://www.youtube.com/channel/UCWj8NJUnyji2xHHThU1TTsw>
-  <img height="35" width="35" src="./youtube.png" />
-⇱
-</a>
-  <a href=https://twitter.com/KomaHuman>
-  <img height="35" width="35" src="./twitter1.png" />
-⇱
-</a>
-
-  <a href=https://www.t.me/KomarIvan>
+  <a href=https://t.me/haz_882>
   <img height="35" width="35" src="./telegram.png" />
 ⇱
 </a> 
@@ -42,7 +16,7 @@
 </p>
 
 <hr>
-<h3 align="center">What i'm working or worked with:</h3>
+<h3 align="center">В работе использую</h3>
 
 
 <p align="center">
