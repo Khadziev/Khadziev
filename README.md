@@ -1,7 +1,5 @@
 <h1 align="center">Khadziev</h1>
 
-<br/>
-
 <p align="center">
 </a> 
 <a href=mailto:Hadziev0615@gmail.com>
@@ -15,12 +13,12 @@
 
 </p>
 
-<p align="center">
-<h2  Мои проекты </h2>
+
+<h2 align="center"  Мои проекты </h2>
   <h3 САЙТ ДЛЯ ВОЛОНТЕРОВ Dobro: / [КОД](https://github.com/Khadziev/Dobro) / [ДЕМО](https://mern-dobro.herokuapp.com)/ </h3>
   <h3 ДНЕВНИК РЕБЕНКА:  / [КОД](https://github.com/Khadziev/chilld) / [ДЕМО](https://deploy-mern-child.herokuapp.com/) </h3>
   <h3 ВОСПОМИНАНИЯ: / [КОД](https://github.com/Khadziev/memories)  / [ДЕМО](https://mernd-memories.herokuapp.com/)/  </h3>
-  </p>
+
 
 
 
