@@ -1,4 +1,4 @@
-<h2 align="center">Islam Khadziev</h2>
+<h1 align="center">Khadziev</h1>
 
 <br/>
 
@@ -16,7 +16,7 @@
 </p>
 
 <hr>
-<h3 align="center">В работе использую</h3>
+<h3 align="center">Основные технологии, которые я использую</h3>
 
 
 <p align="center">
