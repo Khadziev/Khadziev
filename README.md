@@ -1,11 +1,11 @@
 <h1 align="center">Khadziev</h1>
 
-<p align="center">
-[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/haz_882)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/han222______)
-[![mail.ru](https://img.shields.io/badge/hadziev06@list.ru-red?style=social&logo=mail.ru)](#)
 
-</p>
+<h4 align="center"> [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/haz_882) </h4> 
+<h4 align="center"> [![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/han222______) </h4> 
+<h4 align="center"> [![mail.ru](https://img.shields.io/badge/hadziev06@list.ru-red?style=social&logo=mail.ru)](#) </h4> 
+
+
 
 
   
