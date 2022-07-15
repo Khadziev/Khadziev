@@ -6,11 +6,11 @@
 </a> 
 <a href=mailto:Hadziev0615@gmail.com>
   <img height="29" width="35" src="./gmail1.png" />
-⇱
+
 </a>
   <a href=https://t.me/haz_882>
   <img height="35" width="35" src="./telegram.png" />
-⇱
+
 </a> 
 
 </p>
