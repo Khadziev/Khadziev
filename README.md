@@ -1,15 +1,9 @@
 <h1 align="center">Khadziev</h1>
 
 <p align="center">
-</a> 
-<a href=mailto:Hadziev0615@gmail.com>
-  <img height="29" width="35" src="./gmail1.png" />
-
-</a>
-  <a href=https://t.me/haz_882>
-  <img height="35" width="35" src="./telegram.png" />
-
-</a> 
+[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/haz_882)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/han222______)
+[![mail.ru](https://img.shields.io/badge/hadziev06@list.ru-red?style=social&logo=mail.ru)](#)
 
 </p>
 
