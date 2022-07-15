@@ -13,7 +13,8 @@
 
 </p>
 
-<p align="center">
+<h2 align="center">
+  
 ### Мои проекты:
 #### ДНЕВНИК РЕБЕНКА:  / [КОД](https://github.com/Khadziev/chilld) / [ДЕМО](https://deploy-mern-child.herokuapp.com/) 
  
@@ -21,7 +22,7 @@
 
 #### ВОСПОМИНАНИЯ: / [КОД](https://github.com/Khadziev/memories)  / [ДЕМО](https://mernd-memories.herokuapp.com/)/ 
 
-</p>
+</h2>
 
 
 
