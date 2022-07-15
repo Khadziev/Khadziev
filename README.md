@@ -2,7 +2,7 @@
 
 <br/>
 
-⇱
+<p align="center">
 </a> 
 <a href=Hadziev0615@gmail.com>
   <img height="29" width="35" src="./gmail1.png" />
