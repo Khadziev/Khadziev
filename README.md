@@ -13,13 +13,15 @@
 
 </p>
 
-
+<p align="center">
 ### Мои проекты:
 #### ДНЕВНИК РЕБЕНКА:  / [КОД](https://github.com/Khadziev/chilld) / [ДЕМО](https://deploy-mern-child.herokuapp.com/) 
  
 #### САЙТ ДЛЯ ВОЛОНТЕРОВ Dobro: / [КОД](https://github.com/Khadziev/Dobro) / [ДЕМО](https://mern-dobro.herokuapp.com)/  
 
 #### ВОСПОМИНАНИЯ: / [КОД](https://github.com/Khadziev/memories)  / [ДЕМО](https://mernd-memories.herokuapp.com/)/ 
+
+</p>
 
 
 
