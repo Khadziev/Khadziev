@@ -14,11 +14,12 @@
 </p>
 
 
-<h2 align="center"  Мои проекты </h2>
-  <h3 САЙТ ДЛЯ ВОЛОНТЕРОВ Dobro: / [КОД](https://github.com/Khadziev/Dobro) / [ДЕМО](https://mern-dobro.herokuapp.com)/ </h3>
-  <h3 ДНЕВНИК РЕБЕНКА:  / [КОД](https://github.com/Khadziev/chilld) / [ДЕМО](https://deploy-mern-child.herokuapp.com/) </h3>
-  <h3 ВОСПОМИНАНИЯ: / [КОД](https://github.com/Khadziev/memories)  / [ДЕМО](https://mernd-memories.herokuapp.com/)/  </h3>
+### Мои проекты:
+#### ДНЕВНИК РЕБЕНКА:  / [КОД](https://github.com/Khadziev/chilld) / [ДЕМО](https://deploy-mern-child.herokuapp.com/) 
+ 
+#### САЙТ ДЛЯ ВОЛОНТЕРОВ Dobro: / [КОД](https://github.com/Khadziev/Dobro) / [ДЕМО](https://mern-dobro.herokuapp.com)/  
 
+#### ВОСПОМИНАНИЯ: / [КОД](https://github.com/Khadziev/memories)  / [ДЕМО](https://mernd-memories.herokuapp.com/)/ 
 
 
 
