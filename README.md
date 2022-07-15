@@ -1,144 +1,84 @@
-<h2 align="center">Koma Corporation</h2>
-
-<p align="center">
-  <img height="300" width="300" src="./profile.png"/>
-</p>
 
 
-<p align="center">
- <a target="_blank" href=https://github.com/Ivan-Corporation>
-  <img src=https://img.shields.io/github/followers/Ivan-Corporation?label=follow%20me&style=social />
-</a>
-<br/>
-
-
-  <a href=https://codesandbox.io/u/Ivan-Corporation>
-  <img height="35" width="36" src="https://www.shareicon.net/data/2016/11/03/849433_codepen_512x512.png" />
-⇱
-</a> 
-<a href=mailto:hammer.99.ivan@gmail.com>
-  <img height="29" width="35" src="./gmail1.png" />
-⇱
-</a>
-  <a href=https://www.linkedin.com/in/ivan-komar-313960237/>
-  <img height="32" width="33" src="./linkedin.png" />
-⇱
-</a>
-<br/>
-  <a href=https://www.youtube.com/channel/UCWj8NJUnyji2xHHThU1TTsw>
-  <img height="35" width="35" src="./youtube.png" />
-⇱
-</a>
-  <a href=https://twitter.com/KomaHuman>
-  <img height="35" width="35" src="./twitter1.png" />
-⇱
-</a>
-
-  <a href=https://www.t.me/KomarIvan>
-  <img height="35" width="35" src="./telegram.png" />
-⇱
-</a> 
-
-</p>
-
-<hr>
-<h3 align="center">What i'm working or worked with:</h3>
-
-
-<p align="center">
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="40" height="40"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="40" height="40"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt=express width="40" height="40"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="40" height="40"/>
-<img src=https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/icons/rust.png alt=nodejs width="40" height="40"/>
+### Связаться со мной:
+[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/haz_882)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/han222______)
+[![mail.ru](https://img.shields.io/badge/hadziev06@list.ru-red?style=social&logo=mail.ru)](#)
+<!-- [![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#) -->
+___
+### Мои проекты:
+#### ДНЕВНИК РЕБЕНКА:  / [КОД](https://github.com/Khadziev/chilld) / [ДЕМО](https://deploy-mern-child.herokuapp.com/) 
  
- <br>
-________
-<br><br>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="40" height="40"/>
-   <img src='./icons/angular.svg' alt=react width="40" height="40"/>
-  <img src='./icons/vue.svg' alt=react width="40" height="40"/>
-  <img src='./icons/nextjs.png' alt=react width="37" height="39"/>
+#### САЙТ ДЛЯ ВОЛОНТЕРОВ Dobro: / [КОД](https://github.com/Khadziev/Dobro) / [ДЕМО](https://mern-dobro.herokuapp.com)/  
 
-  <br>
-________
-<br><br>
-<img src='./icons/firebase.svg' alt=react width="40" height="40"/>
-<img src='./icons/sql.png' alt=react width="40" height="40"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg alt=mongodb width="40" height="40"/>  
-<br>
-________
-<br><br>
-<img src='./icons/mui.svg' alt=react width="40" height="40"/>
-<img src='./icons/chakra.png' alt=react width="40" height="40"/>
-<img src='./icons/styled_components.png' alt=react width="40" height="40"/>
-<img src='./icons/sass.svg' alt=react width="40" height="40"/>
-<img src='./icons/framer.png' alt=react width="37" height="37"/>
-<img src='./icons/i18.svg' alt=react width="40" height="40"/>
-<img src='./icons/three.png' alt=react width="40" height="40"/>
-<img src='./icons/native.png' alt=react width="40" height="40"/>
-<img src='./icons/expo.png' alt=react width="40" height="40"/>
-  <img src='./icons/bulma.png' alt=react width="40" height="40"/>
-<img src='./icons/bootstrap.png' alt=react width="40" height="40"/>
+#### ВОСПОМИНАНИЯ: / [КОД](https://github.com/Khadziev/memories)  / [ДЕМО](https://mernd-memories.herokuapp.com/)/  
 
-  <br>
-________
-<br><br>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="40" height="40"/>
-<img src='./icons/Blender_23505.png' alt=blender width="40" height="40"/>
-<img src='./icons/figma.svg' alt=react width="40" height="40"/>
-<img src='./icons/gimp.svg' alt=react width="40" height="40"/>
-<img src='./icons/powershell.svg' alt=react width="40" height="40"/>
-<img src='./icons/vsc.svg' alt=react width="40" height="40"/>
-<img src='./icons/webpack.svg' alt=react width="40" height="40"/>
-<img src='./icons/android.png' alt=react width="40" height="40"/>
-<img src='./icons/pycharm.png' alt=react width="40" height="40"/>
-
-
-<br>
-________
-<br><br>
-<img src='./icons/wordpress.png' alt=react width="40" height="40"/>
-<img src='./icons/tilda.jpg' alt=react width="40" height="40"/>
-  <img src='./icons/contentful.png' alt=react width="37" height="40"/>
-
-</p>
-
-<br>
-
-<p align="center">
- <img  alt="Ivan-Corporation's github stats" src=https://github-profile-trophy.vercel.app/?username=Ivan-Corporation&theme=darkhub />
-<br><br>
- </p>
- 
-<div align="center">
-
-![](https://raw.githubusercontent.com/Ivan-Corporation/advanced-metrics/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Ivan-Corporation/advanced-metrics/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Ivan-Corporation/advanced-metrics/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Ivan-Corporation/advanced-metrics/master/generated/languages.svg#gh-light-mode-only)
-  
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Corporation&theme=radical&hide_border=true"/>
-  </div>
-
-<br/>
-
-<p align="center">
-
-   <img width="300px" alt="GreatPicture!" src="https://www.codewars.com/users/Ivan-Corporation/badges/large"/> 
- </p>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Ivan-Corporation" alt="Ivan-Corporation"/><br/>
-  <a href="https://www.youtube.com/channel/UCWj8NJUnyji2xHHThU1TTsw" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCWj8NJUnyji2xHHThU1TTsw?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="Youtube"></a>
-  
+#### МЕДИЦИНСКИЕ КАРТЫ: / [КОД](https://github.com/Khadziev/hospital) 
+                      
+<!-- #### Индивидуальный проект students-app
+ [код](https://github.com/saytkhanov/students-bootcamp-app)
+ [демо](https://students-mern.herokuapp.com/)
+#### Приложение links-mern-app
+ [код](https://github.com/saytkhanov/links-mern-app)
+ [демо](https://links-mern.herokuapp.com/)
+___ -->
+### Основные технологии, которые я использую:
+<div> 
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+<img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
+<img alt="bcrypt" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
+<img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+<img alt="Redux-Logger" src="https://img.shields.io/badge/-React_Hooks-430098?style=for-the-badge&logo=Redux&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" />
+<img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
+<img alt="Redux" src="https://img.shields.io/badge/-Redux-430098?style=for-the-badge&logo=redux&logoColor=white" />
+<img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Thunk-white?style=for-the-badge&logo=Redux&logoColor=430098" />
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange" />
+<img alt="bcrypt" src="https://img.shields.io/badge/redux devtools-430098?style=for-the-badge&logo=redux">
+<img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
+<img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-✔️-green?style=for-the-badge&logo">
+<img alt="bcrypt" src="https://img.shields.io/badge/mongoose-✔️-green?style=for-the-badge&logo=mongoose">
+<img alt="bcrypt" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-764ABC?style=for-the-badge&logo=heroku&logoColor=white" />
+ <img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
+</div>
 
 
 
+![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge)
+![express-handlebars](https://img.shields.io/badge/-express--handlebars-red?style=for-the-badge)
+
+![morgan](https://img.shields.io/badge/-morgan-green?style=for-the-badge)
+![cors](https://img.shields.io/badge/-cors-pink?style=for-the-badge)
+![Material-UI](https://img.shields.io/badge/-Materilal--UI-blue?style=for-the-badge)
 
 
+<!-- ![http-status](https://img.shields.io/badge/-http--status-purple?style=for-the-badge)
+![sequelize](https://img.shields.io/badge/-sequelize-red?style=for-the-badge)
+![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge)
+![dotenv](https://img.shields.io/badge/-dotenv-red?style=for-the-badge)
+![MYSQL](https://img.shields.io/badge/-MySQL-brown?style=for-the-badge)
+![SASS](https://img.shields.io/badge/-SASS-black?style=for-the-badge)
+![concurrently](https://img.shields.io/badge/-concurrently-black?style=for-the-badge)
+![fuse-js](https://img.shields.io/badge/-fuse.js-yellow?style=for-the-badge)
+![styled-components](https://img.shields.io/badge/-styled--components-green?style=for-the-badge)
+![day.js](https://img.shields.io/badge/-day.js-orange?style=for-the-badge) -->
+
+<!-- #### имею опыт адаптивной верстки
 
 
+### Основные методологии, которые я использую:
 
-
+![concurrently](https://img.shields.io/badge/-MVC-black?style=for-the-badge)
+![функциональное программирование](https://img.shields.io/badge/-функциональное--программирование-red?style=for-the-badge)
+![БЭМ](https://img.shields.io/badge/-Бэм-black?style=for-the-badge)
+ -->
+<!-- ### Чтобы я хотел изучить в ближайшее время:
+![typescript](https://img.shields.io/badge/-typescript-green?style=for-the-badge)
+![MobX](https://img.shields.io/badge/-MobX-yellow?style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/-Vue.js-pink?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge)
+![Fastify](https://img.shields.io/badge/-Fastify-yellow?style=for-the-badge)
+![NextJS](https://img.shields.io/badge/-Next.js-green?style=for-the-badge)
+#### полностью улучшить и освоить адаптивную и кроссбраузерную верстку
+### в общем всегда интересуюсь и готов изучать что-то новое -->
