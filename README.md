@@ -49,51 +49,39 @@
  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt=express width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="40" height="40"/>
-<img src=https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/icons/rust.png alt=nodejs width="40" height="40"/>
+ <!-- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt=express width="40" height="40"/> -->
  
  <br>
 ________
 <br><br>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="40" height="40"/>
-   <img src='./icons/angular.svg' alt=react width="40" height="40"/>
-  <img src='./icons/vue.svg' alt=react width="40" height="40"/>
-  <img src='./icons/nextjs.png' alt=react width="37" height="39"/>
+ <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
+<img alt="bcrypt" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
+<img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+ <img src='./icons/nextjs.png' alt=react width="37" height="39"/>
 
   <br>
 ________
 <br><br>
-<img src='./icons/firebase.svg' alt=react width="40" height="40"/>
-<img src='./icons/sql.png' alt=react width="40" height="40"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg alt=mongodb width="40" height="40"/>  
+<img alt="Redux-Logger" src="https://img.shields.io/badge/-React_Hooks-430098?style=for-the-badge&logo=Redux&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" />
+<img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
 <br>
 ________
 <br><br>
-<img src='./icons/mui.svg' alt=react width="40" height="40"/>
-<img src='./icons/chakra.png' alt=react width="40" height="40"/>
-<img src='./icons/styled_components.png' alt=react width="40" height="40"/>
-<img src='./icons/sass.svg' alt=react width="40" height="40"/>
-<img src='./icons/framer.png' alt=react width="37" height="37"/>
-<img src='./icons/i18.svg' alt=react width="40" height="40"/>
-<img src='./icons/three.png' alt=react width="40" height="40"/>
-<img src='./icons/native.png' alt=react width="40" height="40"/>
-<img src='./icons/expo.png' alt=react width="40" height="40"/>
-  <img src='./icons/bulma.png' alt=react width="40" height="40"/>
-<img src='./icons/bootstrap.png' alt=react width="40" height="40"/>
-
+<img alt="Redux" src="https://img.shields.io/badge/-Redux-430098?style=for-the-badge&logo=redux&logoColor=white" />
+<img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Thunk-white?style=for-the-badge&logo=Redux&logoColor=430098" />
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange" />
+<img alt="bcrypt" src="https://img.shields.io/badge/redux devtools-430098?style=for-the-badge&logo=redux">
+<img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
   <br>
 ________
 <br><br>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="40" height="40"/>
-<img src='./icons/Blender_23505.png' alt=blender width="40" height="40"/>
-<img src='./icons/figma.svg' alt=react width="40" height="40"/>
-<img src='./icons/gimp.svg' alt=react width="40" height="40"/>
-<img src='./icons/powershell.svg' alt=react width="40" height="40"/>
-<img src='./icons/vsc.svg' alt=react width="40" height="40"/>
-<img src='./icons/webpack.svg' alt=react width="40" height="40"/>
-<img src='./icons/android.png' alt=react width="40" height="40"/>
-<img src='./icons/pycharm.png' alt=react width="40" height="40"/>
+<img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-✔️-green?style=for-the-badge&logo">
+<img alt="bcrypt" src="https://img.shields.io/badge/mongoose-✔️-green?style=for-the-badge&logo=mongoose">
+<img alt="bcrypt" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-764ABC?style=for-the-badge&logo=heroku&logoColor=white" />
+ <img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
 
 
 <br>
