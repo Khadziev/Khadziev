@@ -31,7 +31,6 @@ ________
 <img alt="Redux-Logger" src="https://img.shields.io/badge/-React_Hooks-430098?style=for-the-badge&logo=Redux&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
-![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=blue)
 <br>
 ________
 <br><br>
@@ -49,7 +48,16 @@ ________
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-764ABC?style=for-the-badge&logo=heroku&logoColor=white" />
 <img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=MongoDB&logoColor=white" />
-<img alt="React-Router" src="https://img.shields.io/badge/-React_Router-blue?style=for-the-badge&logo=react-router&logoColor=orange" />
+<img alt="react-router-dom" src="https://img.shields.io/badge/-react--router--dom-45b8d8?style=for-the-badge" />
+
+<br>
+________
+<br><br>
+<img alt="jsonwebtoken" src="https://img.shields.io/badge/-jsonwebtoken-764ABC?style=for-the-badge&logoColor=white" />
+<img alt="dotenv" src="https://img.shields.io/badge/-dotenv-yellow?style=for-the-badge" />
+<img alt="Webpack" src="https://img.shields.io/badge/webpack-73d1b3?style=for-the-badge&logo=webpack&logoColor=blue" />
+<img alt="Material UI" src="https://img.shields.io/badge/-MaterialUI-golden?style=for-the-badge&logo=materialUI&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=HTML5&logoColor=white" />
 
 <br>
 ________
