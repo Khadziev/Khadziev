@@ -31,6 +31,7 @@ ________
 <img alt="Redux-Logger" src="https://img.shields.io/badge/-React_Hooks-430098?style=for-the-badge&logo=Redux&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=blue)
 <br>
 ________
 <br><br>
@@ -46,8 +47,9 @@ ________
 <img alt="bcrypt" src="https://img.shields.io/badge/mongoose-✔️-green?style=for-the-badge&logo=mongoose">
 <img alt="bcrypt" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-764ABC?style=for-the-badge&logo=heroku&logoColor=white" />
- <img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
-
+<img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
+<img alt="Postman" src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=MongoDB&logoColor=white" />
+<img alt="React-Router" src="https://img.shields.io/badge/-React_Router-blue?style=for-the-badge&logo=react-router&logoColor=orange" />
 
 <br>
 ________
@@ -59,7 +61,7 @@ ________
 <h5 align="center">  ВОСПОМИНАНИЯ: / [КОД](https://github.com/Khadziev/memories)  / [ДЕМО](https://mernd-memories.herokuapp.com/)/ </h5>
 
 <br>
-________
+
   
 
 
