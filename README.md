@@ -5,9 +5,11 @@
   <a href=https://t.me/haz_882>
   <img height="35" width="35" src="./telegram.png" />
 </a> 
+  
 <a href="https://wa.me/89280900111">
 <img align="left" alt="89280900111 | WhatsApp" width="35px" src="https://www.marcelamaia.org/wp-content/uploads/2016/06/logo-whatsapp-png-971.png" />
-<p/>
+  </p>
+
 <h3 align="center">Основные технологии, которые я использую</h3>
 
 
