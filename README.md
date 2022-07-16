@@ -7,7 +7,7 @@
 </a> 
 <a href="https://wa.me/89280900111">
 <img align="left" alt="89280900111 | WhatsApp" width="35px" src="https://www.marcelamaia.org/wp-content/uploads/2016/06/logo-whatsapp-png-971.png" />
-
+<p/>
 <h3 align="center">Основные технологии, которые я использую</h3>
 
 
